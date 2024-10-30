@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: 'https://gpumarketplaceserver-production.up.railway.app/api',
+  baseURL: 'https://gpu-marketplace-server-mohits-projects-032640aa.vercel.app/',
 });
 
 export const setAuthToken = (token) => {
