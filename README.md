@@ -19,7 +19,7 @@ In the project directory, you can run:
 
 ## For Backend 
 
-1. Clone the Rackend Repo from above link
+1. Clone the Backend Repo from above link
 2. Install dependencies 'npm i'
 3. add .env file for including 
    JWT="JWT_Key"
